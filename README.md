@@ -51,7 +51,13 @@ sqlDB로 저장이 되어 항상 확인할 수 있다.
 종합정보시스템, 수강 신청, IT 학과 인스타그램
 페이지로 이동하게 합니다.  
 
-![main](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/98d2afaf-6bfe-43d7-9962-51cfc6e5d7b0)
+![main](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/98d2afaf-6bfe-43d7-9962-51cfc6e5d7b0)  
+
+
+
+https://github.com/user-attachments/assets/b088f6a4-80b7-4ace-b0c3-92261cd86b6e
+
+
 
 # 2. 전공 페이지  
  - 메뉴를 이용해서 자신에 맞는 학번별로 선택하여 학부공통, 전공필수, 전공선택을 선택할 수 있습니다.
