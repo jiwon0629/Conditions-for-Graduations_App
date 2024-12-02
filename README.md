@@ -126,24 +126,24 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
 # 11. 캘린더 페이지  
  - ㅇㄹㅇㄹ
 
-
-
-https://github.com/user-attachments/assets/956b578b-78a2-4a3a-81d1-cab6445f653b
-
+![calendar](https://github.com/user-attachments/assets/08644558-7b21-45df-95cd-a623748ff98f)
 
 
 # 12. 메모장 페이지  
- - ㅇㅁㄴㅇㄹ
+ - ㅇㅁㄴㅇㄹ  
+![edit](https://github.com/user-attachments/assets/455f8fa0-4c01-427c-851e-1662a0a32730)
 
 
 
 # 13. 계산기 페이지  
  - ㅁㄴㅇㄹ
+![calculator](https://github.com/user-attachments/assets/f99b4e91-85c4-45c4-bb95-227d26a4189c)
 
 
 
 # 14. 그림판 페이지  
  - ㄶㅇ
+![draw](https://github.com/user-attachments/assets/74880c93-7d57-43ef-8499-626a124676a1)
 
 
 
