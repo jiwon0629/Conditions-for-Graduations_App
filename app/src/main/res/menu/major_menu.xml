@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="19학번">
+        <menu>
+            <item
+                android:title="학부 공통"
+                android:id="@+id/menu19_MC"/>
+            <item
+                android:title="전공 필수"
+                android:id="@+id/menu19_ME"/>
+            <item
+                android:title="전공 선택"
+                android:id="@+id/menu19_MChoice"/>
+
+        </menu>
+
+    </item>
+
+
+
+    <item android:title="20학번">
+        <menu>
+            <item
+                android:title="학부 공통"
+                android:id="@+id/menu20_MC"/>
+            <item
+                android:title="전공 필수"
+                android:id="@+id/menu20_ME"/>
+            <item
+                android:title="전공 선택"
+                android:id="@+id/menu20_MChoice"/>
+
+        </menu>
+
+    </item>
+
+    <item android:title="21학번">
+        <menu>
+            <item
+                android:title="학부 공통"
+                android:id="@+id/menu21_MC"/>
+            <item
+                android:title="전공 필수"
+                android:id="@+id/menu21_ME"/>
+            <item
+                android:title="전공 선택"
+                android:id="@+id/menu21_MChoice"/>
+
+        </menu>
+
+    </item>
+
+</menu>

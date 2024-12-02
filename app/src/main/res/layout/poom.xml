@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+  <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="0dip"
+      android:layout_weight="1"
+      android:orientation="horizontal" >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="등록 항목 : "
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="15dp" />
+    <EditText
+        android:id="@+id/edtName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+  </LinearLayout>
+  <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="0dip"
+      android:layout_weight="1"
+      android:orientation="horizontal" >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="인증 점수 : "
+        android:textSize="15dp"
+        />
+    <EditText
+        android:id="@+id/edtPoint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+    </EditText>
+  </LinearLayout>
+  <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="0dip"
+      android:layout_weight="1"
+      android:orientation="horizontal" >
+    <Button
+        android:id="@+id/btnInit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="초기화"
+        android:textStyle="bold"
+        android:background="#808080"
+        android:textColor="@color/white"/>
+    <Button
+        android:id="@+id/btnInsert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:background="#808080"
+        android:textColor="@color/white"
+        android:text="입력" />
+    <Button
+        android:id="@+id/btnSelect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="조회"
+        android:textStyle="bold"
+        android:background="#808080"
+        android:textColor="@color/white"/>
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="수정"
+        android:textStyle="bold"
+        android:background="#808080"
+        android:textColor="@color/white"/>
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="삭제"
+        android:textStyle="bold"
+        android:background="#808080"
+        android:textColor="@color/white"/>
+  </LinearLayout>
+  <ScrollView
+      android:layout_width="fill_parent"
+      android:layout_height="0dip"
+      android:layout_weight="8">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+      <EditText
+          android:id="@+id/edtNameResult"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:gravity="top"
+          android:layout_weight="4" />
+
+      <EditText
+          android:id="@+id/edtPointResult"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:gravity="top"
+          android:layout_weight="10" />
+
+
+
+    </LinearLayout>
+  </ScrollView>
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:layout_gravity="bottom">
+    <Button
+        android:id="@+id/back2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="메인 화면"
+        android:textColor="@color/white"
+        android:background="@drawable/buttonshape"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text"
+        android:text="총합 : "
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+  </LinearLayout>
+</LinearLayout>

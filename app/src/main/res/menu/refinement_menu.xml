@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="교양 필수">
+        <menu>
+            <item
+                android:id="@+id/BasicRefinement"
+                android:title="기초 교양" />
+
+            <item
+                android:id="@+id/NazareneRefinement"
+                android:title="나사렛 교양" />
+        </menu>
+
+    </item>
+
+    <item android:title="교양 선택"
+        android:id="@+id/ChoiceRefinement"/>
+</menu>
