@@ -51,7 +51,7 @@ sqlDB로 저장이 되어 항상 확인할 수 있다.
 종합정보시스템, 수강 신청, IT 학과 인스타그램
 페이지로 이동하게 합니다.  
 
-https://github.com/user-attachments/assets/b088f6a4-80b7-4ace-b0c3-92261cd86b6e
+![main](https://github.com/user-attachments/assets/fd786b35-57a8-4f06-a5c1-06e4455642fa)
 
 # 2. 전공 페이지  
  - 메뉴를 이용해서 자신에 맞는 학번별로 선택하여 학부공통, 전공필수, 전공선택을 선택할 수 있습니다.
