@@ -5,7 +5,7 @@
 여러 홈페이지를 오가며 확인해야했던 졸업조건을 한번에 확인할 수 있게 만들었다.  
 전공필수, 전공선택, 교양필수, 교양선택, 자율과목들을 체크하면 메인화면에  
 원형그래프로 현황을 알 수 있고 디바이스가 꺼져도 체크한 목록과 그래프 현황은  
-Database로 저장이 되어 항상 확인할 수 있다.  
+sqlDB로 저장이 되어 항상 확인할 수 있다.  
 
 ## Language  
  - <img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/>
