@@ -153,6 +153,7 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
 # 15. 결과화면  
  - 전공필수, 전공선택, 교양필수, 교양선택, 자율선택의 그래프가 채워지고 수치가 넘어간 데이터가 자율로 채워지게 구성하게 했습니다.  
   
-![result](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/d530d586-02de-4495-baff-e4f9c94d4bf2)
+![result](https://github.com/user-attachments/assets/96edbb45-0516-49fb-ad75-eeed4da2cf74)
+
 
 
