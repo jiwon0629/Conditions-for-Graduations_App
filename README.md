@@ -24,8 +24,8 @@ sqlDB로 저장이 되어 항상 확인할 수 있다.
   10. Na-Best 페이지
   11. 캘린더 페이지
   12. 메모장 페이지
-  13. 계산기
-  14. 그림판
+  13. 계산기 페이지
+  14. 그림판 페이지
   15. 결과화면
 
 
@@ -123,7 +123,31 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
   
 ![nabest](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/74ac2dd0-7b14-44a5-bb56-bbe916ef73fe)
 
-# 11. 결과화면  
+# 11. 캘린더 페이지  
+ - ㅇㄹㅇㄹ
+
+
+
+https://github.com/user-attachments/assets/956b578b-78a2-4a3a-81d1-cab6445f653b
+
+
+
+# 12. 메모장 페이지  
+ - ㅇㅁㄴㅇㄹ
+
+
+
+# 13. 계산기 페이지  
+ - ㅁㄴㅇㄹ
+
+
+
+# 14. 그림판 페이지  
+ - ㄶㅇ
+
+
+
+# 15. 결과화면  
  - 전공필수, 전공선택, 교양필수, 교양선택, 자율선택의 그래프가 채워지고 수치가 넘어간 데이터가 자율로 채워지게 구성하게 했습니다.  
   
 ![result](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/d530d586-02de-4495-baff-e4f9c94d4bf2)
