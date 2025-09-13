@@ -42,7 +42,7 @@ sqlDB로 저장이 되어 항상 확인할 수 있다.
 ---
 
 
-## 📂 프로젝트 구조 (예시)  
+## 📂 프로젝트 구조    
 app/  
 ┣ java/  
 ┃ ┣ com.example.conditionsforgraduations/  
