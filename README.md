@@ -10,12 +10,12 @@ sqlDB로 저장이 되어 항상 확인할 수 있다.
  - <img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/>
  - <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="57" height="57" /></div>  
  - **데이터 저장**
-  - SharedPreferences (체크박스 상태)
-  - SQLite (교양 과목, 품 마일리지)
-  - File I/O (캘린더, 메모장)
+   - SharedPreferences (체크박스 상태)
+   - SQLite (교양 과목, 품 마일리지)
+   - File I/O (캘린더, 메모장)
  - **UI**
-  - ProgressBar & 원형 그래프
-  - ListView, Checkbox, ViewFlipper 등
+   - ProgressBar & 원형 그래프
+   - ListView, Checkbox, ViewFlipper 등
 
 # 구성
   1. 메인 페이지
