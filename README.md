@@ -129,43 +129,50 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
 
  - 교양 페이지도 저장 버튼을 누르고 체크를 마치고 메인화면 버튼을 누르면 Intent를 이용하여 메인화면의  
 교양 그래프가 변화할 수 있게 했습니다.
+<img width="423" height="875" alt="refinement1" src="https://github.com/user-attachments/assets/5f2303e8-c83b-44dd-9e4f-e34413b2e8a0" />
+<img width="422" height="869" alt="refinement2" src="https://github.com/user-attachments/assets/0f5c0212-86fd-42bd-9cd2-96bd9c8f36e6" />
+<img width="420" height="872" alt="refinement3" src="https://github.com/user-attachments/assets/ac022f2f-b3b8-4ccd-86c3-27f09b858ad9" />
 
-![refinement1](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/531e1286-95ca-4abf-bc09-b1bdba6800c6)
-![refinement2](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/511315da-95b3-4fe1-9a9c-2ce94dd10d47)
-![refinement3](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/e4793777-19f0-4042-8e51-d3e7f7fda11d)
+
 
 # 4. 품 마일리지 페이지  
  - 품 마일리지도 종류가 많기 때문에 등록할 항목, 인증점수를 작성하고 초기화, 입력, 조회, 수정, 삭제할 수 있게 했습니다.  
   
  - 하단에 총합이 나오게 되고 교양 선택 페이지와 같이 sqlDB를 이용하여 테이블을 만든 후에 각 데이터를 넣고 저장할 수 있게 했습니다.
   
-![poom](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/d7dad0da-8caf-4cb7-9504-76814ef06efb)
+<img width="421" height="871" alt="poom" src="https://github.com/user-attachments/assets/74a6e1bf-da23-4f0d-8cd4-3e29d6f6e0a6" />
+
 
 # 5. 학번 페이지  
  - 학번 페이지는 학년별 교육과정표가 있는 페이지입니다.  
  - 상단에 버튼을 누르면 각 교육과정표가 나오게 됩니다.
 
-![schnum](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/883436ed-7a67-42fd-be25-93e8c1332498)
+<img width="427" height="871" alt="schnum" src="https://github.com/user-attachments/assets/a6d65b40-e797-4215-b9b4-15242095ffff" />
+
 
 # 6. 나사렛대학교 홈페이지  
  - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
   
-![kornu](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/06304796-04dc-401e-b772-9f4eaaa9e6ef)
+<img width="429" height="873" alt="kornu" src="https://github.com/user-attachments/assets/800c4776-6c56-4a8a-8bf4-fd7fec20a062" />
+
 
 # 7. IT학부 페이지  
  - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
   
-![IT](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/dca4813e-c90d-4dc8-8656-b91f98c11d92)
+<img width="421" height="873" alt="IT" src="https://github.com/user-attachments/assets/43ff583a-3b23-4aa9-ae93-7c431317334e" />
+
 
 # 8. 1365 페이지  
  - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
   
-![1365](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/88a7baee-d7eb-43c6-885f-16df01380ec5)
+<img width="430" height="873" alt="1365" src="https://github.com/user-attachments/assets/2d416125-bd8f-434e-9ce1-42c1075b4ff6" />
+
 
 # 9. VMS 페이지  
  - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
   
-![vms](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/ada2945a-48a3-46fd-842f-4701d8d96840)
+<img width="429" height="873" alt="vms" src="https://github.com/user-attachments/assets/a8edfb63-dc13-470a-9fc5-961a533fedda" />
+
 
 # 10. Na-Best 페이지  
  - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
