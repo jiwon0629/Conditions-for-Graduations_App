@@ -45,18 +45,18 @@ sqlDB로 저장이 되어 항상 확인할 수 있다.
 ## 📂 프로젝트 구조    
 app/  
 ┣ java/  
-┃ ┣ com.example.conditionsforgraduations/  
-┃ ┃ ┣ MainActivity.java  
-┃ ┃ ┣ MajorActivity.java 
-┃ ┃ ┣ LiberalActivity.java  
-┃ ┃ ┣ MileageActivity.java  
-┃ ┃ ┣ CalendarActivity.java 
-┃ ┃ ┗ ...  
-┣ res/  
-┃ ┣ layout/ (UI XML)  
-┃ ┣ drawable/  
+┃ ┣ com.example.conditionsforgraduations/    
+┃ ┃ ┣ MainActivity.java    
+┃ ┃ ┣ MajorActivity.java    
+┃ ┃ ┣ LiberalActivity.java    
+┃ ┃ ┣ MileageActivity.java     
+┃ ┃ ┣ CalendarActivity.java   
+┃ ┃ ┗ ...      
+┣ res/    
+┃ ┣ layout/ (UI XML)     
+┃ ┣ drawable/   
 ┃ ┗ values/  
-┗ AndroidManifest.xml  
+┗ AndroidManifest.xml   
 
 ---
 # 구성
