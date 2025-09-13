@@ -6,7 +6,7 @@
 원형그래프로 현황을 알 수 있고 디바이스가 꺼져도 체크한 목록과 그래프 현황은  
 sqlDB로 저장이 되어 항상 확인할 수 있다.  
 
-## Language  
+## 🛠️ 기술 스택  
  - <img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/>
  - <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="57" height="57" /></div>  
  - **데이터 저장**
@@ -16,6 +16,30 @@ sqlDB로 저장이 되어 항상 확인할 수 있다.
  - **UI**
    - ProgressBar & 원형 그래프
    - ListView, Checkbox, ViewFlipper 등
+---
+
+## 🚀 주요 기능
+- **졸업 요건 관리**
+  - 전공필수 / 전공선택 / 교양필수 / 교양선택 / 자율과목 체크
+  - 항목별 충족 여부를 원형 그래프로 시각화
+  - 상태 저장 및 초기화 기능 지원 (SharedPreferences)
+
+- **교양 과목 관리**
+  - 학점, 과목명, 역량 입력 및 수정/삭제
+  - SQLite 기반 DB 연동
+
+- **품 마일리지 관리**
+  - 항목별 입력/수정/삭제
+  - 합계 자동 계산
+
+- **부가 기능**
+  - 📅 캘린더 (날짜별 일정 저장/불러오기)
+  - 📝 메모장 (텍스트 파일 저장/삭제)
+  - ➗ 계산기 (사칙연산 지원)
+  - 🎨 그림판 (색상, 굵기, 지우개 지원)
+  - 🌐 홈페이지 바로가기 (나사렛대, IT학부, 1365, VMS, Na-Best 등)
+
+---
 
 # 구성
   1. 메인 페이지
@@ -172,30 +196,7 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
 📱 **졸업 요건 관리 & 학부생 편의 기능 통합 앱**  
 나사렛대학교 IT융합학부 학생들을 대상으로 졸업 요건을 손쉽게 확인하고, 학사 생활에 필요한 여러 유틸리티 기능을 제공하는 안드로이드 앱입니다.
 
----
 
-## 🚀 주요 기능
-- **졸업 요건 관리**
-  - 전공필수 / 전공선택 / 교양필수 / 교양선택 / 자율과목 체크
-  - 항목별 충족 여부를 원형 그래프로 시각화
-  - 상태 저장 및 초기화 기능 지원 (SharedPreferences)
-
-- **교양 과목 관리**
-  - 학점, 과목명, 역량 입력 및 수정/삭제
-  - SQLite 기반 DB 연동
-
-- **품 마일리지 관리**
-  - 항목별 입력/수정/삭제
-  - 합계 자동 계산
-
-- **부가 기능**
-  - 📅 캘린더 (날짜별 일정 저장/불러오기)
-  - 📝 메모장 (텍스트 파일 저장/삭제)
-  - ➗ 계산기 (사칙연산 지원)
-  - 🎨 그림판 (색상, 굵기, 지우개 지원)
-  - 🌐 홈페이지 바로가기 (나사렛대, IT학부, 1365, VMS, Na-Best 등)
-
----
 
 ## 🛠️ 기술 스택
 - **언어**: Java (Android)
@@ -209,24 +210,21 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
 
 ---
 
-## 📂 프로젝트 구조 (예시)
-app/
-┣ java/
-┃ ┣ com.example.conditionsforgraduations/
-┃ ┃ ┣ MainActivity.java
-┃ ┃ ┣ MajorActivity.java
-┃ ┃ ┣ LiberalActivity.java
-┃ ┃ ┣ MileageActivity.java
-┃ ┃ ┣ CalendarActivity.java
-┃ ┃ ┗ ...
-┣ res/
-┃ ┣ layout/ (UI XML)
-┃ ┣ drawable/
-┃ ┗ values/
-┗ AndroidManifest.xml
-
-yaml
-코드 복사
+## 📂 프로젝트 구조 (예시)  
+app/  
+┣ java/  
+┃ ┣ com.example.conditionsforgraduations/  
+┃ ┃ ┣ MainActivity.java  
+┃ ┃ ┣ MajorActivity.java 
+┃ ┃ ┣ LiberalActivity.java  
+┃ ┃ ┣ MileageActivity.java  
+┃ ┃ ┣ CalendarActivity.java 
+┃ ┃ ┗ ...  
+┣ res/  
+┃ ┣ layout/ (UI XML)  
+┃ ┣ drawable/  
+┃ ┗ values/  
+┗ AndroidManifest.xml  
 
 ---
 
@@ -244,6 +242,6 @@ yaml
 ---
 
 ## 👨‍💻 제작자
-- 유지원 외
+- 유지원
 
 
