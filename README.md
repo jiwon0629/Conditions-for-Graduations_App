@@ -177,27 +177,31 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
 # 10. Na-Best 페이지  
  - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
   
-![nabest](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/74ac2dd0-7b14-44a5-bb56-bbe916ef73fe)
+<img width="428" height="870" alt="nabest" src="https://github.com/user-attachments/assets/5bb2311e-d70f-42d2-a143-b4ab5d406bb8" />
+
 
 # 11. 캘린더 페이지  
  - 달력에 일기처럼 할 일을 기록하여 저장하고 수정할 수 있습니다.  
  - File입출력을 사용해서 “년도_월_일.txt”형식으로 저장하여 파일에서 찾아서 확인할 수 있습니다.  
 
-![calendar](https://github.com/user-attachments/assets/08644558-7b21-45df-95cd-a623748ff98f)
+<img width="440" height="913" alt="calendar" src="https://github.com/user-attachments/assets/5da43a95-aa69-4a71-992c-6813958451c9" />
+
 
 
 # 12. 메모장 페이지  
  - 기록이 필요한 상황에 메모 불러오기, 메모 저장, 메모 삭제 기능을 사용할 수 있는 메모장입니다.  
  - File입출력을 사용해서 “MyMemo.txt”형식으로저장하여 파일에서 찾아서 확인할 수 있습니다.  
 
-![edit](https://github.com/user-attachments/assets/455f8fa0-4c01-427c-851e-1662a0a32730)
+<img width="498" height="1017" alt="edit" src="https://github.com/user-attachments/assets/0121e9ad-9b4d-4d40-86f5-8a25d6e5d530" />
+
 
 
 
 # 13. 계산기 페이지  
  - 간단하게 계산할 수 있는 계산기 기능으로 덧셈, 뺄셈, 곱셈, 나눗셈을 할 수 있습니다.  
 
-![calculator](https://github.com/user-attachments/assets/f99b4e91-85c4-45c4-bb95-227d26a4189c)
+<img width="446" height="913" alt="calculator" src="https://github.com/user-attachments/assets/5b3f1ee3-34e8-40b6-9457-eeeda70416c3" />
+
 
 
 
@@ -205,14 +209,16 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
  - 그림판 페이지에는 색상 선택, 굵기 설정, 모두 지울 수 있는 기능이 있습니다.  
  - 색상선택은 yuku.ambilwarna.AmbilWarnaDialog를 참고하여 Import하여 사용했습니다.  
 
-![draw](https://github.com/user-attachments/assets/74880c93-7d57-43ef-8499-626a124676a1)
+<img width="440" height="916" alt="draw" src="https://github.com/user-attachments/assets/e305ab0a-7131-4e0c-b2d5-b5637374f004" />
+
 
 
 
 # 15. 결과화면  
  - 전공필수, 전공선택, 교양필수, 교양선택, 자율선택의 그래프가 채워지고 수치가 넘어간 데이터가 자율로 채워지게 구성하게 했습니다.  
   
-![result](https://github.com/user-attachments/assets/96edbb45-0516-49fb-ad75-eeed4da2cf74)
+<img width="424" height="874" alt="result" src="https://github.com/user-attachments/assets/885b00e0-6c3d-4cd2-b93c-5a248b382d33" />
+
 
 
 
