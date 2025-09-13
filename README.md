@@ -160,3 +160,84 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
 
 
 
+
+# 🎓 Conditions-for-Graduations_App
+
+📱 **졸업 요건 관리 & 학부생 편의 기능 통합 앱**  
+나사렛대학교 IT융합학부 학생들을 대상으로 졸업 요건을 손쉽게 확인하고, 학사 생활에 필요한 여러 유틸리티 기능을 제공하는 안드로이드 앱입니다.
+
+---
+
+## 🚀 주요 기능
+- **졸업 요건 관리**
+  - 전공필수 / 전공선택 / 교양필수 / 교양선택 / 자율과목 체크
+  - 항목별 충족 여부를 원형 그래프로 시각화
+  - 상태 저장 및 초기화 기능 지원 (SharedPreferences)
+
+- **교양 과목 관리**
+  - 학점, 과목명, 역량 입력 및 수정/삭제
+  - SQLite 기반 DB 연동
+
+- **품 마일리지 관리**
+  - 항목별 입력/수정/삭제
+  - 합계 자동 계산
+
+- **부가 기능**
+  - 📅 캘린더 (날짜별 일정 저장/불러오기)
+  - 📝 메모장 (텍스트 파일 저장/삭제)
+  - ➗ 계산기 (사칙연산 지원)
+  - 🎨 그림판 (색상, 굵기, 지우개 지원)
+  - 🌐 홈페이지 바로가기 (나사렛대, IT학부, 1365, VMS, Na-Best 등)
+
+---
+
+## 🛠️ 기술 스택
+- **언어**: Java (Android)
+- **데이터 저장**
+  - SharedPreferences (체크박스 상태)
+  - SQLite (교양 과목, 품 마일리지)
+  - File I/O (캘린더, 메모장)
+- **UI**
+  - ProgressBar & 원형 그래프
+  - ListView, Checkbox, ViewFlipper 등
+
+---
+
+## 📂 프로젝트 구조 (예시)
+app/
+┣ java/
+┃ ┣ com.example.conditionsforgraduations/
+┃ ┃ ┣ MainActivity.java
+┃ ┃ ┣ MajorActivity.java
+┃ ┃ ┣ LiberalActivity.java
+┃ ┃ ┣ MileageActivity.java
+┃ ┃ ┣ CalendarActivity.java
+┃ ┃ ┗ ...
+┣ res/
+┃ ┣ layout/ (UI XML)
+┃ ┣ drawable/
+┃ ┗ values/
+┗ AndroidManifest.xml
+
+yaml
+코드 복사
+
+---
+
+## 📊 시연 이미지
+> (앱 실행 화면 캡처 추가 예정)
+
+---
+
+## 📌 향후 개선 사항
+- 자동 업데이트되는 교육과정 데이터 반영
+- UX 개선 (필터링/검색 기능 추가)
+- 그래프 인터랙션 강화
+- 클라우드 기반 백업 & 동기화
+
+---
+
+## 👨‍💻 제작자
+- 유지원 외
+
+
