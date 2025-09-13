@@ -76,7 +76,8 @@ app/
   14. 그림판 페이지
   15. 결과화면
 ---
-
+## 📊 시연 이미지
+---
 # 1. 메인 페이지  
  - 먼저 앱을 실행시키면 아래에 보이는 화면처럼
 졸업 조건을 확인할 수 있는 앱 화면이 나옵니다.
@@ -112,12 +113,12 @@ app/
 Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다.
 
  - 만약 체크와 총합을 초기화 시키고 싶다면 저장버튼을 누른 후 초기화 버튼을 누르면 초기화됩니다.
+<img width="434" height="872" alt="major1" src="https://github.com/user-attachments/assets/39c2e401-c853-4093-8784-5582d2fee1b7" />
+<img width="428" height="872" alt="major2" src="https://github.com/user-attachments/assets/fb57633f-b3b1-4cab-b016-8339381b12c4" />
+<img width="432" height="872" alt="major3" src="https://github.com/user-attachments/assets/b1f4ccad-1c34-4e93-8b04-48187d70c433" />
+<img width="433" height="873" alt="major4" src="https://github.com/user-attachments/assets/df2046a8-e672-4678-a82a-b810ee7e32b1" />
+<img width="430" height="870" alt="major5" src="https://github.com/user-attachments/assets/6539e654-bf1c-4547-8ffe-bc66aa6d69b8" />
 
-![major1](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/9e52b309-3793-445b-8537-8cb2c3e7b87a)
-![major2](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/ebbcf67d-bb32-4b55-a3d0-2cc04ac60584)
-![major3](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/116345f6-c2ca-495b-bb81-c77a8ac9e758)
-![major4](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/00401f45-055e-48e8-8a9e-54644b8624e3)
-![major5](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/f446c07c-a1a6-411f-9341-0e4077cfc90b)
 
 # 3. 교양 페이지  
  - 메뉴를 이용해서 자신이 수강한 교양 과목을 선택할 수 있습니다.
@@ -212,8 +213,8 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
 
 
 
-## 📊 시연 이미지
-> (앱 실행 화면 캡처 추가 예정)
+
+
 
 ---
 
