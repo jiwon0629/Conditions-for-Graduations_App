@@ -41,6 +41,24 @@ sqlDB로 저장이 되어 항상 확인할 수 있다.
 
 ---
 
+
+## 📂 프로젝트 구조 (예시)  
+app/  
+┣ java/  
+┃ ┣ com.example.conditionsforgraduations/  
+┃ ┃ ┣ MainActivity.java  
+┃ ┃ ┣ MajorActivity.java 
+┃ ┃ ┣ LiberalActivity.java  
+┃ ┃ ┣ MileageActivity.java  
+┃ ┃ ┣ CalendarActivity.java 
+┃ ┃ ┗ ...  
+┣ res/  
+┃ ┣ layout/ (UI XML)  
+┃ ┣ drawable/  
+┃ ┗ values/  
+┗ AndroidManifest.xml  
+
+---
 # 구성
   1. 메인 페이지
   2. 전공 페이지
@@ -57,7 +75,7 @@ sqlDB로 저장이 되어 항상 확인할 수 있다.
   13. 계산기 페이지
   14. 그림판 페이지
   15. 결과화면
-
+---
 
 # 1. 메인 페이지  
  - 먼저 앱을 실행시키면 아래에 보이는 화면처럼
@@ -191,42 +209,8 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
 
 
 
-# 🎓 Conditions-for-Graduations_App
-
-📱 **졸업 요건 관리 & 학부생 편의 기능 통합 앱**  
-나사렛대학교 IT융합학부 학생들을 대상으로 졸업 요건을 손쉽게 확인하고, 학사 생활에 필요한 여러 유틸리티 기능을 제공하는 안드로이드 앱입니다.
 
 
-
-## 🛠️ 기술 스택
-- **언어**: Java (Android)
-- **데이터 저장**
-  - SharedPreferences (체크박스 상태)
-  - SQLite (교양 과목, 품 마일리지)
-  - File I/O (캘린더, 메모장)
-- **UI**
-  - ProgressBar & 원형 그래프
-  - ListView, Checkbox, ViewFlipper 등
-
----
-
-## 📂 프로젝트 구조 (예시)  
-app/  
-┣ java/  
-┃ ┣ com.example.conditionsforgraduations/  
-┃ ┃ ┣ MainActivity.java  
-┃ ┃ ┣ MajorActivity.java 
-┃ ┃ ┣ LiberalActivity.java  
-┃ ┃ ┣ MileageActivity.java  
-┃ ┃ ┣ CalendarActivity.java 
-┃ ┃ ┗ ...  
-┣ res/  
-┃ ┣ layout/ (UI XML)  
-┃ ┣ drawable/  
-┃ ┗ values/  
-┗ AndroidManifest.xml  
-
----
 
 ## 📊 시연 이미지
 > (앱 실행 화면 캡처 추가 예정)
